@@ -1,7 +1,7 @@
 # NakadaSystem
 
 
-[Idia:] (https://www.facebook.com/AhmedMHassaan12/posts/2274160442893095)
+[Idia:](https://www.facebook.com/AhmedMHassaan12/posts/2274160442893095)
 
 
 Download_Link: [V1](https://ahmedmhassaan.000webhostapp.com/)<br>
