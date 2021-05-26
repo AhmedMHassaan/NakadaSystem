@@ -20,7 +20,6 @@ Code : [Github](https://github.com/AhmedMHassaan/NakadaNews)
 * LiveData
 * MVVM
 * Butter Knife
-* ViewModels
 * RX-Java
 * Services
 * Fragments
