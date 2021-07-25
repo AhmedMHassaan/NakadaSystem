@@ -15,7 +15,7 @@ Login, Register Steps, HomeScreen, Bugs Fixed
 Code : [Github] private (https://github.com/AhmedMHassaan/NakadaNews)
 
 # I  used:
-* Java & Xml - * Android  Studio
+* Java/Kotlin & Xml - * Android  Studio
 * Retrofit 
 * PHP
 * MySQL
