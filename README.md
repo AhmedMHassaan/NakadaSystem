@@ -12,7 +12,7 @@ What is News in (v2.2):<br>
 Login, Register Steps, HomeScreen, Bugs Fixed
 
 <br><br><br>
-Code : [Github](https://github.com/AhmedMHassaan/NakadaNews)
+Code : [Github] private (https://github.com/AhmedMHassaan/NakadaNews)
 
 # I  used:
 * Java & Xml - * Android  Studio
