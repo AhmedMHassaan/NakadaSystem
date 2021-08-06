@@ -13,7 +13,7 @@ so i decied to help my city and provide them with app to make this city based on
 <b > Finally </b>: this app will manage everything in My City and make people Life Easier
 
 
-فكرة التطبيق + التعليقات و الآراء من [هنا](https://www.facebook.com/AhmedMHassaan12/posts/2274160442893095)
+Comments And App idea  From [Here](https://www.facebook.com/AhmedMHassaan12/posts/2274160442893095)
 
 
 
@@ -35,7 +35,7 @@ Download Link : [V3.2](https://drive.google.com/file/d/1kYWcybsLwpkHUki4R0i6pfFb
 
 
 <br><br><br>
-Code : [Github] private (https://github.com/AhmedMHassaan/NakadaNews)
+Code : Github-private [Madinaty](https://github.com/AhmedMHassaan/NakadaNews)
 
 # I  used:
 * Java/Kotlin & Xml - * Android  Studio
