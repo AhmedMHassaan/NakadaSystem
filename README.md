@@ -4,7 +4,10 @@ it suffer from lak in new technology like transports apps like uber and so on <b
 so i decied to help my city and provide them with app to make this city based on modern Technology with Knowledge and Technology I learnt
 <br><br>
 ## Services founded in this App:<br>
-* News :  
+* <b>News</b> : All news and posts happened in nakada to make people in Nakada closer  
+* <b>Jobs and Services</b> : updated jobs , poople that offers services in nakada to help other (Free or Paided )
+* <b>Markets </b> : all markets in nakada to amplify trade and create free markting for market owner so if any one in city need any product will search anout it in all markets in app 
+* <b>Pharmacies</b>: asking for 
 
 
 فكرة التطبيق + التعليقات و الآراء من [هنا](https://www.facebook.com/AhmedMHassaan12/posts/2274160442893095)
