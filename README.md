@@ -17,17 +17,7 @@ Comments And App idea  From [Here](https://www.facebook.com/AhmedMHassaan12/post
 
 
 ## Download
-Download_Link: [LasrVersion](https://ahmedmhassaan.000webhostapp.com/)<br>
-or Old Versions :<br>
-Download_Link: [V1.0](http://www.mediafire.com/file/qczqcis81hxwuc7/app-debug.apk/file)<br>
-Download Link : [V2.0](https://www.mediafire.com/file/ikepxbfd6zsd2hw/app-debug.apk/file)<br>
-Download Link : [V2.1](https://drive.google.com/file/d/1z6ojUitG9uIIKvA__RYIMJF43LCcTHHe/view?usp=sharing)<br>
-Download Link : [V2.2](https://drive.google.com/file/d/1nzLhFzUNBwscrZ65c7xjdgtnBKppOEIu/view?usp=sharing)<br>
-What is News in (v2.2):<br>
-Login, Register Steps, HomeScreen, Bugs Fixed <br>
-Download Link : [V3.0](https://drive.google.com/file/d/1jV3wJcm7PZYWH0vojgdbkflzm4VB6DxP/view?usp=drivesdk)<br>
-Download Link : [V3.2](https://drive.google.com/file/d/1kYWcybsLwpkHUki4R0i6pfFbULQ8mQ8Y/view?usp=sharing)<br>
-Download Link : [V3.3](https://drive.google.com/file/d/1J-TVwmsitEv2eizCh3dhwaeMeivQ1z8D/view?usp=sharing)<br>
+Download_Link: [LastVersion](https://play.google.com/store/apps/details?id=com.ahmed.m.hassaan.nakadanews)<br>
 
 
 
